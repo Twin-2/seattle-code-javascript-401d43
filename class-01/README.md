@@ -18,11 +18,9 @@ Application development in the Node.js ecosystem, including the writing of modul
 - See passing tests via GitHub actions (CI)
 - Deploy to Heroku using CD
 
-## Today's Outline
-
-<!-- To Be Completed By Instructor -->
-
-## Notes
+## Lecture Video
+- Class 01 Video:  https://zoom.us/rec/share/7iHDLFFrGmN5Va8gLfNz5Jc1l0_BmDEzvj7HC-9BMBeJqWbMPm3Vl9ylphHt0bgp.z-Nec5Ss4ELR-wNH
+- Access Passcode: 5UPVE=X^
 
 ### Importing and Exporting Modules
 
