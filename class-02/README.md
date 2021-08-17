@@ -20,6 +20,10 @@ Express Server Mechanics: Routing, Middleware, and Approaches to Testing
 - Incorporate application level middleware
 - Properly test an `express` server
 
+## Lecture Video
+- Class 02 Video:  https://zoom.us/rec/share/cCkGtkcnaiYDeXnZo3w8lf92U6Zwv5nMlLvmGBPTWHnlizYyi1dFEAN06A0zShcI.6qGEDLUv5XVp7UnE
+- Access Passcode: js-401d43
+
 ## Today's Outline
 
 <!-- To Be Completed By Instructor -->
