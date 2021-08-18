@@ -17,9 +17,9 @@ Express servers can quickly get big and out of control if you build them in one 
 - Respond to request Queries and Parameters in routes.
 - Testing code that relies on a Postgres Database server.
 
-## Today's Outline
-
-<!-- To Be Completed By Instructor -->
+## Lecture Video
+Class 03:  https://zoom.us/rec/share/X-JYzDYL7gPof7jYROaZbRRDc7duwzmfUj_AiQlo0SuO41YtmTeDAw01H4um9HKa.FNo5Wk4zbtDC9ahj
+Access Passcode: js-401d43
 
 ## Notes
 
