@@ -23,6 +23,8 @@ Data Modeling: The process of taking a real world or conceptual idea and encodin
 - Create an extensible CRUD interface and an implementation for a data model.
 
 ## Lecture Video
+- Class 04:  https://zoom.us/rec/share/Cw_tgnExL-P1ldOK53Kr6YcTT1gHekA0AXICn_RDsDzC3j81eYmWUp8qx5RQ1mbH.z3bYe76YuJWxTXia
+- Access Passcode: js-401d43
 
 ### Collection Interface
 
