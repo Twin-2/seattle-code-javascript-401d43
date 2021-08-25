@@ -22,8 +22,8 @@ Given a proper and valid user with a set of permissions, we can grant or restric
 - Use a virtual column for capabilties, to create a roles system.
 
 ## Lecture Video
-[Class 08](https://zoom.us/rec/share/IooyZANSIEeFfxq9VihIQUnK2NO3T-h7Nrn7XWwlV_zXfnif0U6E36unbXt6vzqf.qCnLmIBRJQK0lVtA)
-Access Passcode: js-401d43
+- [Class 08 - ACL](https://zoom.us/rec/share/IooyZANSIEeFfxq9VihIQUnK2NO3T-h7Nrn7XWwlV_zXfnif0U6E36unbXt6vzqf.qCnLmIBRJQK0lVtA)
+- Access Passcode: js-401d43
 
 ### Access Controls
 
