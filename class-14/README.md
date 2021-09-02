@@ -9,18 +9,10 @@ To this point, we've built servers based on internal event processing, using bot
 #### Describe and Define
 
 - Messaging Queues
-  - Messages and Notification
-  - Triggering services with events
-    - Lambda
-    - API Calls
+  - Messages and Notifications with SNS
 
 #### Execute
 
 - Build an event based messaging server
-- Manage a subscription/event queue
-
-## Today's Outline
-
-<!-- To Be Completed By Instructor -->
-
-## Notes
+- Manage a subscription in AWS
+- Work with a team to build and implement a real-time based application
