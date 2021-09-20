@@ -1,0 +1,11 @@
+$border-width: 2vw;
+$orange: orange;
+$black: #222;
+
+body {
+  background: $orange;
+
+  h1 {
+    border: solid $border-width $black;
+  }
+}
