@@ -20,7 +20,11 @@ Newer versions of React now allow for "function components" to also manage their
 
 ## Today's Outline
 
-<!-- To Be Completed By Instructor -->
+1. Sorting Presentations
+2. Hooks Review
+3. Tests?
+4. `useEffect()`
+5. Lab Preview
 
 ## Notes
 
