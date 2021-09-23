@@ -15,6 +15,10 @@ function People(props) {
     props.onSubmit(name);
   }
 
+  const testFunction = () => {
+    console.log('test function is running');
+  }
+
   // two variables in the 2nd argument
   // Runs when: both variables change
   useEffect( () => {
@@ -24,6 +28,7 @@ function People(props) {
 
   // one variable in the 2nd argument
   useEffect( () => {
+    testFunction();
     console.log('New Name Is: ', name);
   }, [name])
 
